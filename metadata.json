@@ -1,0 +1,8 @@
+
+{
+  "name": "CANTI AI Dashboard",
+  "description": "A high-performance AI-driven lead management dashboard for service-based businesses, featuring automated responses, unified inbox, and industry-specific expert assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
